@@ -1,3 +1,8 @@
+# Name: Raven Jones
+# Date: Sep 18, 2026
+# Course: COMP 163
+# Project 1: Paycheck Calculator
+
 employee_name = input("Enter the employees name: ")
 hours_worked = float(input("Enter the number of hours worked: "))
 hourly_pay = float(input("Enter the hourly pay rate: "))
